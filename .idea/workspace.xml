@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21089f08-aabb-4423-9e07-52aa1e8fe1cb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/magnific-popup.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/elements.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icon-fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/circle-progress.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/jquery-2.1.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/magnific-popup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/mixitup.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +53,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/css" />
       <recent name="$PROJECT_DIR$/html" />
@@ -64,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1586405279305</updated>
       <workItem from="1586416122033" duration="779000" />
-      <workItem from="1586416986782" duration="543000" />
+      <workItem from="1586416986782" duration="2470000" />
     </task>
     <task id="LOCAL-00001" summary="file rename">
       <created>1586406634612</created>
@@ -80,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586411689745</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="[update]use design template.">
+      <created>1586417804317</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586417804317</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,21 +110,32 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="file rename" />
     <MESSAGE value="added javascript code to index.html." />
-    <option name="LAST_COMMIT_MESSAGE" value="added javascript code to index.html." />
+    <MESSAGE value="[update]use design template." />
+    <option name="LAST_COMMIT_MESSAGE" value="[update]use design template." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="363" y="135" key="CommitChangelistDialog2" timestamp="1586417783755">
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586419832497">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="363" y="135" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1586417783755" />
-    <state x="363" y="155" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1586411689612" />
-    <state x="379" y="283" key="Vcs.Push.Dialog.v2" timestamp="1586411692107">
-      <screen x="0" y="23" width="1792" height="1097" />
+    <state x="634" y="314" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586419832497" />
+    <state x="363" y="135" key="CommitChangelistDialog2" timestamp="1586417804131">
+      <screen x="0" y="0" width="1792" height="1120" />
     </state>
+    <state x="363" y="135" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1586417804131" />
+    <state x="363" y="155" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1586411689612" />
+    <state x="379" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586417806093">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="379" y="265" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1586417806093" />
     <state x="379" y="283" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1586411692107" />
     <state x="563" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586406601884">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="563" y="479" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1097@0.23.1792.1097" timestamp="1586406601884" />
+    <state x="559" y="231" width="672" height="693" key="search.everywhere.popup" timestamp="1586419495651">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="559" y="231" width="672" height="693" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1586419495651" />
+    <state x="559" y="249" width="672" height="678" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1586419483605" />
   </component>
 </project>
